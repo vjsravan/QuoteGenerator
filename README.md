@@ -1,11 +1,15 @@
-# QuoteGenerator
- Generate a new quote with a click of a button and also share the quote to Twitter.
+# Quote Generator
 
-#Getting Started
+Generate a new quote with a click of  a button and also share the quote to Twitter.
+
+# Getting Started
+
 You need to have basic understanding of HTML, CSS(Flexbox), and Javascript.
 
-#Online Tools
-Icons from Fontawesome
+# Online Tools
 
-#Deployment
- Clone the repo and contribute if you find this useful and definitely give it a star.
+Icons from [Fontawesome](https://fontawesome.com/)
+
+# Deployment
+
++ Clone the repo and contribute if you find this useful and definitely give it a star.
